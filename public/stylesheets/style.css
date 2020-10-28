@@ -1,0 +1,12 @@
+.card {
+  box-shadow: 0 5px 10px #6d819c;
+  border-radius: 10px;
+}
+
+.hint {
+  color: red;
+}
+
+body {
+  background-color: #F3F2F0;
+}
